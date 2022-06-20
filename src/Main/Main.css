@@ -1,0 +1,41 @@
+.main-container {
+    background-image: url(https://psv4.userapi.com/c505536/u548859487/docs/d14/a2ed623deb53/941afad4465c7704abe8996ef0f495742e3963a5.png?extra=x9S_NsWbkI2MCBlqtSV5Ic20qsZMbK7osRih2r4JwYIftsUE_QJfjV1LbLZWO6GUyUkb7WWucZWDNCJLduRKmrjgsFa2nUrUeePfLNa5RcC9t3y1zfq1iJhzOYXgAjTNvK1X0qd_lc1m24xfuDgWPriaHA);
+   
+    width: 100%;
+    height:100%;
+    float:left;
+    padding-left: 100px;
+    
+}
+h1{
+    color: aliceblue;
+    text-align: center;
+    font-family: Courier New, monospace
+}
+.sell-desk{
+   width: 100%;
+    padding-left: 70px;
+   background-image: url(https://psv4.userapi.com/c505536/u548859487/docs/d14/a2ed623deb53/941afad4465c7704abe8996ef0f495742e3963a5.png?extra=x9S_NsWbkI2MCBlqtSV5Ic20qsZMbK7osRih2r4JwYIftsUE_QJfjV1LbLZWO6GUyUkb7WWucZWDNCJLduRKmrjgsFa2nUrUeePfLNa5RcC9t3y1zfq1iJhzOYXgAjTNvK1X0qd_lc1m24xfuDgWPriaHA);
+float: left;
+}
+.butSel{
+    width: 30%;
+    height: 40px;
+    display: inline-block;
+    color: white;
+    text-decoration: none;
+    padding: .5em 2em;
+    outline: none;
+    border-width: 2px 0;
+    border-style: solid none;
+    border-color: #bb1bdb #000 #1b95db;
+    border-radius: 6px;
+    background: orchid;
+    transition: 0.2s;
+    float:left;
+    padding-left: 100px;
+}
+.body{
+    background-size: 100%;
+    display:flex;
+}

@@ -1,0 +1,22 @@
+
+.container{
+  max-width: 100%;
+  background-image:url(https://psv4.userapi.com/c505536/u548859487/docs/d14/627913892d36/941afad4465c7704abe8996ef0f495742e3963a5.png?extra=w9ylRRBnVBBuNse7X2mbof29-00qfQKOFdn0gg9ygrf5FxfWmeGRiEvb1TvXysYj-AABBgWoA8ygd0949LH6NZzqoHsuLtOnGcgC3hIqxrTQ9_KY7VebH-HP81_-foYbssnXgiyWmbLQHm4oabsfy7avlg) ;
+ max-height:100%; 
+  
+}
+@media (max-width:1200px){
+    .container{
+        max-width: 970px;
+    }
+}
+@media (max-width:992px){
+    .container{
+        max-width: 750px;
+    }
+}
+@media (max-width:767px){
+    .container{
+        max-width: none;
+    }
+}
